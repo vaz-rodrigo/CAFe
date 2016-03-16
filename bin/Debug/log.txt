@@ -1,0 +1,263 @@
+
+08/02/2016 15:02:50 LOG: Added item of id: ID3
+08/02/2016 15:02:50 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 15:03:01 WARNING: Tried changing map to the current map!
+08/02/2016 15:03:24 WARNING: Tried changing map to the current map!
+08/02/2016 15:04:12 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 15:04:12 LOG: Added usable item of id: ID2
+08/02/2016 15:04:12 LOG: Added item of id: ID3
+08/02/2016 15:04:12 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 15:04:22 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 15:04:40 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 15:04:46 WARNING: Tried to add duplicated parameter "POTION" to action USE
+08/02/2016 15:04:54 WARNING: Tried to add duplicated parameter "POTION" to action USE
+08/02/2016 15:05:05 WARNING: Tried to add duplicated parameter "POTION" to action USE
+08/02/2016 15:05:05 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 15:05:13 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 15:05:13 LOG: Added usable item of id: ID2
+08/02/2016 15:05:13 LOG: Added item of id: ID3
+08/02/2016 15:05:13 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 15:06:05 WARNING: Tried to add duplicated parameter "POTION" to action USE
+08/02/2016 15:06:05 WARNING: Tried to add duplicated parameter "SWORD" to action EQUIP
+08/02/2016 15:14:38 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 15:14:38 LOG: Added usable item of id: ID2
+08/02/2016 15:14:38 LOG: Added item of id: ID3
+08/02/2016 15:14:38 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 15:14:39 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:19:28 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 16:19:28 LOG: Added usable item of id: ID2
+08/02/2016 16:19:28 LOG: Added item of id: ID3
+08/02/2016 16:19:28 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:19:31 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:19:45 WARNING: Death pages were not suplied, using default death.
+08/02/2016 16:19:46 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:19:46 ERROR: Frame was already built.
+08/02/2016 16:19:47 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:19:54 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 16:19:54 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 16:19:54 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 16:20:02 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 16:20:02 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 16:20:02 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 16:40:50 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 16:40:50 LOG: Added usable item of id: ID2
+08/02/2016 16:40:50 LOG: Added item of id: ID3
+08/02/2016 16:40:50 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:40:52 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:41:07 WARNING: Death pages were not suplied, using default death.
+08/02/2016 16:41:20 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 16:41:20 LOG: Added usable item of id: ID2
+08/02/2016 16:41:20 LOG: Added item of id: ID3
+08/02/2016 16:41:20 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:41:22 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:41:52 WARNING: Death pages were not suplied, using default death.
+08/02/2016 16:42:03 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 16:42:03 LOG: Added usable item of id: ID2
+08/02/2016 16:42:03 LOG: Added item of id: ID3
+08/02/2016 16:42:03 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:42:16 ERROR: FAILED TO LOAD SAVEFILE #3!
+08/02/2016 16:42:27 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 16:42:27 LOG: Added usable item of id: ID2
+08/02/2016 16:42:27 LOG: Added item of id: ID3
+08/02/2016 16:42:27 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:42:28 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 16:43:10 WARNING: Death pages were not suplied, using default death.
+08/02/2016 16:43:12 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 16:43:12 ERROR: Frame was already built.
+08/02/2016 17:06:59 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 17:06:59 LOG: Added usable item of id: ID2
+08/02/2016 17:06:59 LOG: Added item of id: ID3
+08/02/2016 17:06:59 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 17:07:00 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 17:10:48 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 17:10:48 LOG: Added usable item of id: ID2
+08/02/2016 17:10:48 LOG: Added item of id: ID3
+08/02/2016 17:10:48 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 17:10:49 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 17:12:00 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 17:12:00 LOG: Added usable item of id: ID2
+08/02/2016 17:12:00 LOG: Added item of id: ID3
+08/02/2016 17:12:00 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 17:12:01 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 17:13:56 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 17:13:56 LOG: Added usable item of id: ID2
+08/02/2016 17:13:56 LOG: Added item of id: ID3
+08/02/2016 17:13:56 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 17:13:58 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 17:18:55 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 17:18:55 LOG: Added usable item of id: ID2
+08/02/2016 17:18:55 LOG: Added item of id: ID3
+08/02/2016 17:18:55 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 17:18:57 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 17:20:11 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 17:20:11 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 17:20:11 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 19:38:46 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 19:38:46 LOG: Added usable item of id: ID2
+08/02/2016 19:38:46 LOG: Added item of id: ID3
+08/02/2016 19:38:46 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 20:56:24 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 20:56:24 LOG: Added usable item of id: ID2
+08/02/2016 20:56:24 LOG: Added item of id: ID3
+08/02/2016 20:56:24 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 20:56:26 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:00:17 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:00:18 LOG: Added usable item of id: ID2
+08/02/2016 21:00:18 LOG: Added item of id: ID3
+08/02/2016 21:00:18 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:00:19 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:01:06 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:01:06 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 21:01:07 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:01:11 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:01:23 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 21:01:23 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:02:35 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:02:35 LOG: Added usable item of id: ID2
+08/02/2016 21:02:35 LOG: Added item of id: ID3
+08/02/2016 21:02:35 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:10:44 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:10:44 LOG: Added usable item of id: ID2
+08/02/2016 21:10:44 LOG: Added item of id: ID3
+08/02/2016 21:10:44 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:11:27 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:11:27 LOG: Added usable item of id: ID2
+08/02/2016 21:11:27 LOG: Added item of id: ID3
+08/02/2016 21:11:27 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:13:13 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:13:13 LOG: Added usable item of id: ID2
+08/02/2016 21:13:13 LOG: Added item of id: ID3
+08/02/2016 21:13:13 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:13:15 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:18:32 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:18:32 LOG: Added usable item of id: ID2
+08/02/2016 21:18:32 LOG: Added item of id: ID3
+08/02/2016 21:18:32 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:18:59 WARNING: Tried to add duplicated parameter "SWORD" to action EQUIP
+08/02/2016 21:19:06 WARNING: Tried to add duplicated parameter "SWORD" to action SELL
+08/02/2016 21:19:39 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:22:17 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:22:17 LOG: Added usable item of id: ID2
+08/02/2016 21:22:17 LOG: Added item of id: ID3
+08/02/2016 21:22:17 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:22:25 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:22:40 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:22:48 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:22:48 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 21:22:48 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:22:56 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:23:02 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:23:02 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:23:32 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:23:39 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:23:46 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:43:56 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:43:56 LOG: Added usable item of id: ID2
+08/02/2016 21:43:56 LOG: Added item of id: ID3
+08/02/2016 21:43:56 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:46:58 WARNING: Failed to add default action of keyword: TAKE, keyword already used
+08/02/2016 21:46:58 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:46:58 LOG: Added usable item of id: ID2
+08/02/2016 21:46:58 LOG: Added item of id: ID3
+08/02/2016 21:46:58 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:46:59 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:47:14 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:47:14 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:47:29 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:47:33 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:47:48 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:47:48 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:47:54 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:48:18 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:48:18 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:58:01 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:58:01 LOG: Added usable item of id: ID2
+08/02/2016 21:58:01 LOG: Added item of id: ID3
+08/02/2016 21:58:01 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:58:43 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:58:43 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:58:54 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:58:54 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:59:26 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:59:26 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 21:59:30 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 21:59:43 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 21:59:43 LOG: Added usable item of id: ID2
+08/02/2016 21:59:43 LOG: Added item of id: ID3
+08/02/2016 21:59:43 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 21:59:45 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 21:59:57 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 22:01:00 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:01:00 LOG: Added usable item of id: ID2
+08/02/2016 22:01:00 LOG: Added item of id: ID3
+08/02/2016 22:01:00 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:01:26 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:01:39 WARNING: Tried to add duplicated parameter "SWORD" to action UNEQUIP
+08/02/2016 22:01:39 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:03:30 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:03:30 LOG: Added usable item of id: ID2
+08/02/2016 22:03:30 LOG: Added item of id: ID3
+08/02/2016 22:03:30 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:03:39 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:03:39 ERROR: Frame was already built.
+08/02/2016 22:03:42 WARNING: Tried to add duplicated parameter "SWORD" to action UNEQUIP
+08/02/2016 22:03:42 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:04:52 WARNING: Tried to add duplicated parameter "SWORD" to action EQUIP
+08/02/2016 22:10:43 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:10:43 LOG: Added usable item of id: ID2
+08/02/2016 22:10:43 LOG: Added item of id: ID3
+08/02/2016 22:10:43 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:12:36 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:12:36 LOG: Added usable item of id: ID2
+08/02/2016 22:12:36 LOG: Added item of id: ID3
+08/02/2016 22:12:36 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:12:46 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:14:39 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:14:39 LOG: Added usable item of id: ID2
+08/02/2016 22:14:39 LOG: Added item of id: ID3
+08/02/2016 22:14:39 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:14:52 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:14:58 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:14:58 LOG: Added usable item of id: ID2
+08/02/2016 22:14:58 LOG: Added item of id: ID3
+08/02/2016 22:14:58 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:15:10 ERROR: FAILED TO LOAD SAVEFILE #3!
+08/02/2016 22:15:17 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:15:17 LOG: Added usable item of id: ID2
+08/02/2016 22:15:17 LOG: Added item of id: ID3
+08/02/2016 22:15:17 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:15:55 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 22:17:52 WARNING: Death pages were not suplied, using default death.
+08/02/2016 22:17:53 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:17:53 ERROR: Frame was already built.
+08/02/2016 22:17:55 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 22:17:55 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 22:17:55 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
+08/02/2016 22:21:02 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:21:02 LOG: Added usable item of id: ID2
+08/02/2016 22:21:02 LOG: Added item of id: ID3
+08/02/2016 22:21:02 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:21:09 WARNING: Loading save file #1 of different CAFe version!
+08/02/2016 22:21:09 ERROR: FAILED TO LOAD SAVEFILE #1!
+08/02/2016 22:21:30 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:21:30 LOG: Added usable item of id: ID2
+08/02/2016 22:21:30 LOG: Added item of id: ID3
+08/02/2016 22:21:30 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:21:35 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:21:35 ERROR: Frame was already built.
+08/02/2016 22:21:36 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 22:32:13 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:32:13 LOG: Added usable item of id: ID2
+08/02/2016 22:32:13 LOG: Added item of id: ID3
+08/02/2016 22:32:13 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:32:18 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:32:18 ERROR: Frame was already built.
+08/02/2016 22:32:19 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 22:37:09 LOG: Added weapon equipment piece of id: ID1
+08/02/2016 22:37:09 LOG: Added usable item of id: ID2
+08/02/2016 22:37:09 LOG: Added item of id: ID3
+08/02/2016 22:37:09 LOG: Using plain title because styledTitle was not supplied.
+08/02/2016 22:37:13 WARNING: Story pages were not suplied, skipping story.
+08/02/2016 22:37:36 WARNING: Tried to add duplicated parameter "SWORD" to action TAKE
+08/02/2016 22:37:36 WARNING: Tried to add duplicated parameter "POTION" to action TAKE
+08/02/2016 22:37:36 WARNING: Tried to add duplicated parameter "ROCK" to action TAKE
